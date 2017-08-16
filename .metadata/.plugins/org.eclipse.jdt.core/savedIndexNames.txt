@@ -1,0 +1,15 @@
+INDEX VERSION 1.127+D:\Alura\AluraJPA\.metadata\.plugins\org.eclipse.jdt.core
+3094348081.index
+4017757463.index
+1808378886.index
+3771126143.index
+2867054847.index
+3370891576.index
+3400222172.index
+467850630.index
+961765940.index
+586456821.index
+2202302546.index
+1766423998.index
+4145216574.index
+1247716018.index
